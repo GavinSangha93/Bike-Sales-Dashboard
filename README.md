@@ -94,8 +94,8 @@ The final dashboard transforms raw customer data into actionable business intell
 <br />
 
 <p align="center">
+<b>2)   Customers who purchased motorcycles generally exhibited higher average income levels, suggesting purchasing power plays a significant role in motorcycle buying decisions <br />
   
-<b>2)   Customers who purchased motorcycles generally exhibited higher average income levels, suggesting purchasing power plays a significant role in motorcycle buying decisions  
 <img src="https://imgur.com/lciJTPg.png" height="50%" width="50%" />
 <img src="https://imgur.com/waOm2zr.png" height="50%" width="50%" />
 <br />
